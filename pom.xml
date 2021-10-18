@@ -42,7 +42,7 @@
             <configuration>
                <goals>pre-integration-test</goals>
                <preparationGoals>package</preparationGoals>
-               <allowTimestampedSnapshots>true</allowTimestampedSnapshots>
+               <allowTimestampedSnapshots>false</allowTimestampedSnapshots>
                <tagNameFormat>@{project.version}</tagNameFormat>
                <remoteTagging>false</remoteTagging>
             </configuration>
