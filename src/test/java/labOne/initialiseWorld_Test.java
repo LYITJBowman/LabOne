@@ -8,7 +8,6 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import org.junit.Test;
 
-import mvnSimpleProj.App;
 
 /**
  * @author james
