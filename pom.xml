@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ie.lyit.DevOpsLabs</groupId>
   <artifactId>labOne</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>LabOne</name>
   
   <properties>
@@ -22,7 +22,7 @@
     <connection>scm:git:git@github.com:LYITJBowman/LabOne.git</connection>
     <developerConnection>scm:git:git@github.com:LYITJBowman/LabOne.git</developerConnection>
     <url>https://github.com/LYITJBowman/LabOne</url>
-    <tag>0.0.1</tag>
+    <tag>labOne-0.0.1</tag>
   </scm>
   
   <build>
