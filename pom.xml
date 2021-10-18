@@ -18,6 +18,12 @@
     </dependency>
   </dependencies>
   
+  <scm>
+    <connection>scm:git:git@github.com:LYITJBowman/LabOne.git</connection>
+    <developerConnection>scm:git:git@github.com:LYITJBowman/LabOne.git</developerConnection>
+    <url>https://github.com/LYITJBowman/LabOne</url>
+  </scm>
+  
   <build>
   	<plugins>
   		<plugin>
